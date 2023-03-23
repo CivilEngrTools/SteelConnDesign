@@ -1,1 +1,5 @@
-The release for CET.SteelConnDesign 1.0.
+CET.SteelConnDesign is a free, cutting-edge steel connection design software that is built on the AISC 13th/14th/15th standards. The software’s design engine is powered by modern mathematical theories, offering users a powerful design solution. In the future, the software will incorporate seismic and other country-specific design codes to enhance its capabilities.
+
+The software’s latest update introduces support for connection design in Tekla and FreeCAD, with plans to expand its compatibility to other steel modeling software. The software’s connection-oriented and efficient UI system ensures that users can enjoy a seamless experience across Tekla and FreeCAD. Additionally, the software’s unique input fields accurately display user input and design results.
+
+CET.SteelConnDesign is currently available for free from 2023 to 2027. Beyond this period, we aim to make the software freeware forever, subject to our business model’s ability to support a team of 20+ developers. This strategic move will ensure that CET.SteelConnDesign remains a leading solution in the market and meets the evolving needs of its users.
