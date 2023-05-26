@@ -1,6 +1,10 @@
+V1.2
+1 Support column transverse stiffener in beam to column falnge, moment connection
+2 Minor bug fixes
+
 V1.1
-1 Beam to column falnge, moment connection
-2 Some bug fixes
+1 Support beam to column falnge, moment plate connection
+2 Minor bug fixes
 
 V1.0 
 Beam to column single plate connection
