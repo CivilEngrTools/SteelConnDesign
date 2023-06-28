@@ -1,3 +1,7 @@
+V1.3
+1 Support beam to column, end plate connection (Moment end plate will be supported later)
+2 Minor bug fixes
+
 V1.2
 1 Support column transverse stiffener in beam to column falnge, moment connection
 2 Minor bug fixes
