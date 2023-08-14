@@ -1,3 +1,7 @@
+V1.4
+1 Support beam to column, moment end plate connection with FreeCAD and Tekla
+2 Minor bug fixes
+
 V1.3
 1 Support beam to column, end plate connection (Moment end plate will be supported later)
 2 Minor bug fixes
