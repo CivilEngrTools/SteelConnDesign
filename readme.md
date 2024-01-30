@@ -55,24 +55,24 @@ https://civilengrtools.com/
 # Version History
 
 V1.5
-1 Support automated 2d drawing generation with FreeCAD 
-2 Minor bug fixes
+1. Support automated 2d drawing generation with FreeCAD 
+1. Minor bug fixes
 
 V1.4
-1 Support beam to column, moment end plate connection with FreeCAD and Tekla
-2 Minor bug fixes
+1. Support beam to column, moment end plate connection with FreeCAD and Tekla
+2. Minor bug fixes
 
 V1.3
-1 Support beam to column, end plate connection (Moment end plate will be supported later)
-2 Minor bug fixes
+1. Support beam to column, end plate connection (Moment end plate will be supported later)
+2. Minor bug fixes
 
 V1.2
-1 Support column transverse stiffener in beam to column falnge, moment connection
-2 Minor bug fixes
+1. Support column transverse stiffener in beam to column falnge, moment connection
+2. Minor bug fixes
 
 V1.1
-1 Support beam to column falnge, moment plate connection
-2 Minor bug fixes
+1. Support beam to column falnge, moment plate connection
+2. Minor bug fixes
 
 V1.0 
 First Release: Beam to column single plate connection
