@@ -5,12 +5,12 @@ The current version of CET.SteelConnDesign is tailored exclusively for Windows O
 
 While CET.SteelConnDesign is available for free, we encourage users to explore the enhanced features of our Premium service. To access Premium benefits, kindly contact civilengrtools@gmail.com for additional details. Premium users can relish the following advantages:
 
- 24x7 Email/Video support
- In-person training
- Hot patch within 5 business days
- Feature requests
- Open/Save project file in plain json format
- 10 developer hours for each premium user (which could be used for special connection development)
+- 24x7 Email/Video support
+- In-person training
+- Hot patch within 5 business days
+- Feature requests
+- Open/Save project file in plain json format
+- 10 developer hours for each premium user (which could be used for special connection development)
 
 # Why Choose CET.SteelConnDesign
 Followings make CET.SteelConnDesign different from others:
