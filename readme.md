@@ -1,5 +1,5 @@
 # General 
-CET.SteelConnDesign is a cutting-edge steel connection design software that is built on the AISC 13th/14th/15th standards and powered by modern mathematical theories, offering users a powerful design solution. The software can run in 3 modes: standalone, integration with FreeCAD or integration with Tekla. CET.SteelConnDesign will also support Revit and Blender later.
+CET.SteelConnDesign is a FREE, cutting-edge steel connection design software that is built on the AISC 13th/14th/15th standards and powered by modern mathematical theories, offering users a powerful design solution. The software can run in 3 modes: standalone, integration with FreeCAD or integration with Tekla. CET.SteelConnDesign will also support Revit and Blender later.
 
 The current version of CET.SteelConnDesign is tailored exclusively for Windows OS and is compatible solely with Imperial units. Notably, it is not an open-source program, though we willingly share the source code with our partners upon request.
 
