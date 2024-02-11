@@ -80,10 +80,10 @@ First Release: Beam to column single plate connection
 # Road Map
 CET.SteelConnDesign is evolving gradually. In upcoming releases, we plan to introduce support for beam splice connections, column splice connections, brace connections and others. In the long term, our goals include:
 
-Expanded design codes support
-Integration of seismic design
-Implementation of AI for connection design
-Import IFC models
+- Expanded design codes support
+- Integration of seismic design
+- Implementation of AI for connection design
+- Import IFC models
 
 # Legal Disclaimer:
 When installing and using our software, users are assumed to agree with the terms outlined in the License Agreement. 
