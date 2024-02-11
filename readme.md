@@ -54,6 +54,10 @@ https://civilengrtools.com/
 
 # Version History
 
+V1.6
+1. Support beam to beam web connections
+1. Minor bug fixes
+
 V1.5
 1. Support automated 2d drawing generation with FreeCAD 
 1. Minor bug fixes
