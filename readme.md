@@ -5,12 +5,18 @@ The current version of CET.SteelConnDesign is tailored exclusively for Windows O
 
 While CET.SteelConnDesign is available for free, we encourage users to explore the enhanced features of our Premium service. To access Premium benefits, kindly contact civilengrtools@gmail.com for additional details. Premium users can relish the following advantages:
 
-- 24x7 Email/Video support
-- In-person training
-- Hot patch within 5 business days
-- Feature requests
-- Open/Save project file in plain json format
-- 10 developer hours for each premium user (which could be used for special connection development)
+- Efficiently process thousands of members with just one click. Our software can
+automatically identify Connection Setup types and design them with minimal user input
+(under development).
+- Utilize APIs to customize connection checks or design all connections using specific bolt
+diameters or plate thickness (under development).
+- Open and save project files in plain JSON format.
+- Receive hot patches within 5 business days.
+- Access feature requests and enhancements.
+- Benefit from 24x7 email/video support.
+- Attend in-person training sessions.
+- Receive 10 developer hours for each Premium user, which can be used for custom
+connection development.
 
 # Why Choose CET.SteelConnDesign
 Followings make CET.SteelConnDesign different from others:
@@ -53,6 +59,10 @@ Website
 https://civilengrtools.com/
 
 # Version History
+
+V1.7
+1. Support beam splice connections
+2. Fix UI bugs like not being able to change design codes
 
 V1.6
 1. Support beam to beam web connections
