@@ -3,7 +3,7 @@ CET.SteelConnDesign is a FREE, cutting-edge steel connection design software tha
 
 The current version of CET.SteelConnDesign is tailored exclusively for Windows OS and is compatible solely with Imperial units. Notably, it is not an open-source program, though we willingly share the source code with our partners upon request.
 
-While CET.SteelConnDesign is available for free, we encourage users to explore the enhanced features of our Premium service. To access Premium benefits, kindly contact civilengrtools@gmail.com for additional details. Premium users can relish the following advantages:
+The goal of CET.SteelConnDesign is not to generate profit but to empower designers by leveraging modern software and saving them time. While it is available for free, we encourage users to explore the enhanced features of our Premium service. For more information on accessing Premium benefits, please contact civilengrtools@gmail.com. Premium users can enjoy the following advantages:
 
 - Efficiently process thousands of members with just one click. Our software can
 automatically identify Connection Setup types and design them with minimal user input
@@ -58,7 +58,18 @@ https://www.reddit.com/r/SteelConnDesign/
 Website
 https://civilengrtools.com/
 
+# Join Us     
+We are a team of skilled engineers located in multiple places around the world. However, we need your help to promote our sales. As a sales representative, you can earn a percentage of premium subscriptions for each sale. Please reach out to us at civilengrtools@gmail.com if you have any questions or requests.
+
+# Investment Opportunities
+We are an emerging startup with a promising future and are actively seeking investment opportunities. If you are interested in partnering with us, please do not hesitate to contact us.
+
 # Version History
+
+V1.8
+1. Support beam flange blocks (FreeCAD Only), extended single plate and stabilizer
+plate connection
+2. Minor bug fixes
 
 V1.7
 1. Support beam splice connections
@@ -102,6 +113,4 @@ CET.SteelConnDesign is evolving gradually. In upcoming releases, we plan to intr
 # Legal Disclaimer:
 When installing and using our software, users are assumed to agree with the terms outlined in the License Agreement. 
 
-# About Us
-We are a talent team by Engineers and we locate in several places across the world. Please contact civilengrtools@gmail.com if you have any questions or requests. 
 
