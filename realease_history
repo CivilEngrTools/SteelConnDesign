@@ -1,6 +1,10 @@
+V1.9
+1 Support beam web Angle connections and Tension/Compressionaxial forces
+2 Minor bug fixes
+
 V1.8
 1 Support beam flange blocks (FreeCAD Only), extended single plate and stabilizer plate connection
-2 Minor bug fixes
+2 Minor bug fixes  
 
 v1.7
 1 Support beam splice connections
