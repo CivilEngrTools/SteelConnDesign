@@ -66,6 +66,10 @@ We are an emerging startup with a promising future and are actively seeking inve
 
 # Version History
 
+V1.9
+1. Support beam web Angle connections and Tension/Compressionaxial forces
+2. Minor bug fixes
+
 V1.8
 1. Support beam flange blocks (FreeCAD Only), extended single plate and stabilizer
 plate connection
