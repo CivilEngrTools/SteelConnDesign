@@ -5,7 +5,7 @@
 
 The current version of **CET.SteelConnDesign** is designed exclusively for Windows OS and supports only Imperial units. While the program is not open-source, we are happy to share the source code with our partners upon request.  
 
-Additionally, CET.SteelConnDesign supports plugins, providing users with powerful design tools and a platform to share ideas. As a step toward Open-Source development, we are starting with [Open-Source plugins](https://github.com/CivilEngrTools/SteelConnDesign_plugins)!  to foster collaboration and innovation within the community.
+Additionally, CET.SteelConnDesign supports plugins, providing users with powerful design tools and a platform to share ideas. As a step toward Open-Source development, we are starting with [Open-Source plugins](https://github.com/CivilEngrTools/SteelConnDesign_plugins) to foster collaboration and innovation within the community.
 
 The goal of **CET.SteelConnDesign** is not to generate profit but to empower designers by leveraging modern software and saving them time. While it is available for free, we encourage users to explore the enhanced features of our Premium service. For more information on accessing Premium benefits, please contact **civilengrtools@gmail.com**. Premium users can enjoy the following advantages:
 
@@ -69,6 +69,34 @@ We are a team of skilled engineers located in multiple places around the world. 
 We are an emerging startup with a promising future and are actively seeking investment opportunities. If you are interested in partnering with us, please do not hesitate to contact us.
 
 # Verification Problems
+
+This example is from AISC Design Example V15.0 II.A-17B. Please check the model file in [Github](https://github.com/CivilEngrTools/SteelConnDesign/blob/main/Verification_Problems/AISC15_II_A-17B.bpj). Currently, they are 3 [examples](https://github.com/CivilEngrTools/SteelConnDesign/tree/main/Verification_Problems). Results:
+
+| Location         | Item                                              | AISC Design Example Results | CET.SteelConnDesign Results | Difference |
+| ---------------- | ------------------------------------------------- | --------------------------- | --------------------------- | ---------- |
+| **Beam Web**     | Shear Yielding                                    | 128 Kips                    | 127.8 Kips                  | 0.16 %     |
+|                  | Tensile Yielding                                  | 440 Kips                    | 440.1 Kips                  | 0.02 %     |
+|                  | Tensile Rupture                                   | 171 Kips                    | 171 Kips                    | 0.0 %      |
+|                  | Block Shear U shape, Axial Force                  | 106 Kips                    | 109.6 Kips                  | 3.4 % (1)  |
+|                  | Bolt Shear                                        | 74.5 Kips                   | 74.55 Kips                  | 0.07 %     |
+| **Single Plate** | Shear Yielding                                    | 145 Kips                    | 145 Kips                    | 0.0 %      |
+|                  | Shear Rupture                                     | 92.5 Kips                   | 92.6 Kips                   | 0.11 %     |
+|                  | Flexural Yielding                                 | 316 Kips                    | 314.7 Kips                  | 0.41 %     |
+|                  | Interaction of axial, flexural and shear yielding | 0.148                       | 0.148                       | 0.0 %      |
+|                  | Tensile Yielding                                  | 217 Kips                    | 217.1 Kips                  | 0.05 %     |
+|                  | Tensile Rupture                                   | 155 Kips                    | 155.4 Kips                  | 0.39 %     |
+|                  | Flexural Rupture                                  | 316 Kips                    | 314.7 Kips                  | 0.41 %     |
+|                  | Interaction of axial, flexural and shear rupture  | 0.42                        | 0.42                        | 0.0 %      |
+|                  | Block Shear L shape, Shear Force                  | 118 Kips                    | 117.8 Kips                  | 0.17 %     |
+|                  | Block Shear L shape, Axial Force                  | 161 Kips                    | 160.9 Kips                  | 0.06 %     |
+|                  | Block Shear U shape, Axial Force                  | 168 Kips                    | 167.5 Kips                  | 0.30 %     |
+|                  | Block Shear Interaction                           | 0.241                       | 0.242                       | 0.41 %     |
+
+Note: 
+
+1. In the calculation of beam web block shear (U-shape), the AISC Design Example uses abeam edge distance leh = 1.75 inches, whereas CET.SteelConnDesign uses 2 inches, resulting in a 3.4% difference. Based on the drawing, our results appear to be reasonable. 
+
+2) Bearing and weld calculation details are not compared in this table.
 
 # Version History
 
