@@ -70,7 +70,8 @@ We are an emerging startup with a promising future and are actively seeking inve
 
 # Verification Problems
 
-This example is from AISC Design Example V15.0 II.A-17B. Please check the model file in [Github](https://github.com/CivilEngrTools/SteelConnDesign/blob/main/Verification_Problems/AISC15_II_A-17B.bpj). Currently, they are 3 [examples](https://github.com/CivilEngrTools/SteelConnDesign/tree/main/Verification_Problems). Results:
+This example is from AISC Design Example V15.0 II.A-17B. Please check the model file in [Github](https://github.com/CivilEngrTools/SteelConnDesign/blob/main/Verification_Problems/AISC15_II_A-17B.bpj). Currently, there are 3 [examples](https://github.com/CivilEngrTools/SteelConnDesign/tree/main/Verification_Problems) and [comparisons](https://github.com/CivilEngrTools/SteelConnDesign/blob/main/User%20Manual.pdf). For II.A-17B, the results are:
+![](.github/images/AISC_IIA-17B.PNG)
 
 | Location         | Item                                              | AISC Design Example Results | CET.SteelConnDesign Results | Difference |
 | ---------------- | ------------------------------------------------- | --------------------------- | --------------------------- | ---------- |
