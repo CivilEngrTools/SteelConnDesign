@@ -1,11 +1,13 @@
 # General 
-CET.SteelConnDesign is a FREE, cutting-edge steel connection design software that is built on the AISC 13th/14th/15th standards and powered by modern mathematical theories, offering users a powerful design solution. The software can run in 3 modes: standalone, integration with FreeCAD or integration with Tekla. CET.SteelConnDesign will also support Revit and Blender later.
+**CET.SteelConnDesign** is a **FREE**, cutting-edge steel connection design software that is built on the AISC 13th/14th/15th standards and powered by modern mathematical theories, offering users a powerful design solution. The software can run in 3 modes: standalone, integration with **[FreeCAD](https://www.freecad.org/)** or integration with **[Tekla](https://www.tekla.com/products/tekla-structures)**. CET.SteelConnDesign will also support Revit and Blender later.
 
-The current version of CET.SteelConnDesign is designed exclusively for Windows OS and supports only Imperial units. While the program is not open-source, we are happy to share the source code with our partners upon request.  
+![](.github/images/moment_end_plate.PNG)
+
+The current version of **CET.SteelConnDesign** is designed exclusively for Windows OS and supports only Imperial units. While the program is not open-source, we are happy to share the source code with our partners upon request.  
 
 Additionally, CET.SteelConnDesign supports plugins, providing users with powerful design tools and a platform to share ideas. As a step toward Open-Source development, we are starting with [Open-Source plugins](https://github.com/CivilEngrTools/SteelConnDesign_plugins)!  to foster collaboration and innovation within the community.
 
-The goal of CET.SteelConnDesign is not to generate profit but to empower designers by leveraging modern software and saving them time. While it is available for free, we encourage users to explore the enhanced features of our Premium service. For more information on accessing Premium benefits, please contact civilengrtools@gmail.com. Premium users can enjoy the following advantages:
+The goal of **CET.SteelConnDesign** is not to generate profit but to empower designers by leveraging modern software and saving them time. While it is available for free, we encourage users to explore the enhanced features of our Premium service. For more information on accessing Premium benefits, please contact **civilengrtools@gmail.com**. Premium users can enjoy the following advantages:
 
 - Efficiently process thousands of members with just one click. Our software can
 automatically identify Connection Setup types and design them with minimal user input
@@ -66,57 +68,32 @@ We are a team of skilled engineers located in multiple places around the world. 
 # Investment Opportunities
 We are an emerging startup with a promising future and are actively seeking investment opportunities. If you are interested in partnering with us, please do not hesitate to contact us.
 
+# Verification Problems
+
 # Version History
 
-V1.9
-1. Support beam web Angle connections and Tension/Compressionaxial forces
-2. Minor bug fixes
-
-V1.8
-1. Support beam flange blocks (FreeCAD Only), extended single plate and stabilizer
-plate connection
-2. Minor bug fixes
-
-V1.7
-1. Support beam splice connections
-2. Fix UI bugs like not being able to change design codes
-
-V1.6
-1. Support beam to beam web connections
-1. Minor bug fixes
-
-V1.5
-1. Support automated 2d drawing generation with FreeCAD 
-1. Minor bug fixes
-
-V1.4
-1. Support beam to column, moment end plate connection with FreeCAD and Tekla
-2. Minor bug fixes
-
-V1.3
-1. Support beam to column, end plate connection (Moment end plate will be supported later)
-2. Minor bug fixes
-
-V1.2
-1. Support column transverse stiffener in beam to column falnge, moment connection
-2. Minor bug fixes
-
-V1.1
-1. Support beam to column falnge, moment plate connection
-2. Minor bug fixes
-
-V1.0 
-First Release: Beam to column single plate connection
+| Version   | Description                                                  |
+| --------- | ------------------------------------------------------------ |
+| **V1.10** | 1. Support **moment  beam splice** connections<br/>2. Added bolt solids in FreeCAD for 3D models and 2D drawings.<br/>3. Introduced color settings for members and connections in FreeCAD.<br/>4. Introduced **[Open-Source plugin system](https://github.com/CivilEngrTools/SteelConnDesign_plugins)**. |
+| **V1.9**  | 1. Support beam web **angle** connections and Tension/Compression axial forces |
+| **V1.8**  | 1. Support beam **flange blocks** (FreeCAD Only), **extended single plate** and **stabilizer plate** connection |
+| **V1.7**  | 1. Support **beam splice** connections <br> 2. Fix UI bugs like not being able to change design codes |
+| **V1.6**  | 1. Support beam to beam web connections                      |
+| **V1.5**  | 1. Support automated **2D drawing** generation with FreeCAD  |
+| **V1.4**  | 1. Support beam to column, **moment end plate** connection with FreeCAD and Tekla |
+| **V1.3**  | 1. Support beam to column, **end plate** connection (Moment end plate will be supported later) |
+| **V1.2**  | 1. Support **column transverse stiffener** in beam to column flange, moment connection |
+| **V1.1**  | 1. Support beam to column flange, **moment plate** connection |
+| **V1.0**  | First Release: Beam to column **single plate** connection    |
 
 # Road Map
 CET.SteelConnDesign is evolving gradually. In upcoming releases, we plan to introduce support for beam splice connections, column splice connections, brace connections and others. In the long term, our goals include:
 
-- Expanded design codes support
+- Expanded design codes support, especially for Eurocode
 - Integration of seismic design
-- Implementation of AI for connection design
+- Implementation of **AI** for connection design
 - Import IFC models
 
 # Legal Disclaimer:
 When installing and using our software, users are assumed to agree with the terms outlined in the License Agreement. 
-
 
