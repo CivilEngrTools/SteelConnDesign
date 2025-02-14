@@ -1,4 +1,18 @@
+### Table of Contents
+
+1. [General](#general)
+2. [Why Choose CET.SteelConnDesign](#why-choose-cetsteelconndesign)
+3. [Support](#support)
+4. [Social Media](#social-media)
+5. [Join Us](#join-us)
+6. [Investment Opportunities](#investment-opportunities)
+7. [Verification Problems](#verification-problems)
+8. [Version History](#version-history)
+9. [Road Map](#road-map)
+10. [Legal Disclaimer](#legal-disclaimer)
+
 # General 
+
 **CET.SteelConnDesign** is a **FREE**, cutting-edge steel connection design software that is built on the AISC 13th/14th/15th standards and powered by modern mathematical theories, offering users a powerful design solution. The software can run in 3 modes: standalone, integration with **[FreeCAD](https://www.freecad.org/)** or integration with **[Tekla](https://www.tekla.com/products/tekla-structures)**. CET.SteelConnDesign will also support Revit and Blender later.
 
 ![](.github/images/moment_end_plate.PNG)
