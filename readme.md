@@ -117,6 +117,7 @@ Note:
 
 | Version   | Description                                                  |
 | --------- | ------------------------------------------------------------ |
+| **V2.0**  | 1. Support brace-to-beam-column connections (HSS brace only). <br/>2. User registration and email verification system introduced|
 | **V1.10** | 1. Support **moment  beam splice** connections<br/>2. Added bolt solids in FreeCAD for 3D models and 2D drawings.<br/>3. Introduced color settings for members and connections in FreeCAD.<br/>4. Introduced **[Open-Source plugin system](https://github.com/CivilEngrTools/SteelConnDesign_plugins)**. |
 | **V1.9**  | 1. Support beam web **angle** connections and Tension/Compression axial forces |
 | **V1.8**  | 1. Support beam **flange blocks** (FreeCAD Only), **extended single plate** and **stabilizer plate** connection |
